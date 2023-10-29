@@ -1,0 +1,926 @@
+0-0,0-1,0-2,1-0,1-1,1-2,2-0,2-1,2-2,result
+O,O,O,X,X,O,X,O,X,O Wins!
+O,X,X,X,O,O,X,O,O,O Wins!
+O, ,O,O,X,O,X,X,X,X Wins!
+O,X,X,O,X,X,O,O,O,O Wins!
+O,O,O,X,X,O,O,X,X,O Wins!
+X,O,O,O,X,O,X,X,O,O Wins!
+X,O,O, ,X,O,O,X,X,X Wins!
+X,O,O,X, ,X,X,O,O,X Wins!
+ , ,O,O,O, ,X,X,X,X Wins!
+X,X,O, ,O, ,O,X,O,O Wins!
+ ,O,O,X,X,X, ,O, ,X Wins!
+X,O,X,X,X,O,O,O,O,O Wins!
+O,O,X, ,O,X,O,X,X,X Wins!
+X, ,O, ,X,X,O,O,O,O Wins!
+X,X,O,O,X,O,X,O,O,O Wins!
+X,X,O,O,O,O,X,O,X,O Wins!
+X,O,O, , ,O,X,X,O,O Wins!
+X,X,O,O,O,X,O,X,O,O Wins!
+O,O,O,O,X,X,X,O,X,O Wins!
+O,O,O,X,O,X,O,X,X,O Wins!
+O, ,O,X, ,O,X,X,O,O Wins!
+O,O,X,X,O,O,O,X,X,Draw
+O,X,O,O, ,X,O,X, ,O Wins!
+O,O,X, ,X,O,X, , ,X Wins!
+O,O, ,X,X,X,X,O,O,X Wins!
+O,X,X,O,X, ,O,O, ,O Wins!
+ ,X,O, ,X,O, , ,O,O Wins!
+X,O,O,O,O,X,X,X,O,Draw
+O, ,X,O,X,O,O, ,X,O Wins!
+ ,X,O,X,X,O, ,O,O,O Wins!
+O,X,X,O,X,O,O,O,X,O Wins!
+X, ,O,X, ,O,X,O, ,X Wins!
+O,O, ,X,O,X, ,X,O,O Wins!
+X,O,X,O,X,X,O,O,O,O Wins!
+X, ,X,O, ,X,O,O,O,O Wins!
+O,O,O,X, ,O,X, ,X,O Wins!
+X,O,O,X,O,X,O,X,O,O Wins!
+X,X,O,O,O,O,X,X,O,O Wins!
+O,X,O,X,O,X,X,O,O,O Wins!
+O, ,O, ,O, ,X,X,X,X Wins!
+O,O,O,O,X,X,O,X,X,O Wins!
+ , ,X,O,X, ,X,O,O,X Wins!
+X,O,X,O,O,O,O,X,X,O Wins!
+X,O,O,O,X, ,O,X,X,X Wins!
+X,O,O,O,X,X,O,X,O,Draw
+X,O, ,X,O,O,X, , ,X Wins!
+O, ,O,X,O,O,X,X,X,X Wins!
+O,X,X,X,O,O,O,X,O,O Wins!
+X,O,X,O,O,X,O,X,O,Draw
+X,O,X,O,O,O,X,X,O,O Wins!
+O,X,O,X,O,O,X,X,O,O Wins!
+ ,O,X,O,X,O,X, , ,X Wins!
+O,X,O,X,O,X,O,O,X,O Wins!
+O,X,X,X,O,O,O,O,X,Draw
+O,X,X,O, ,O,O, ,X,O Wins!
+O,X,O,O,O,X,X,X,O,O Wins!
+X,O,O,O,O,X,O,X,X,O Wins!
+O,O,X,O,O, ,X,X,X,X Wins!
+O,O,X,O,X,X,X,O, ,X Wins!
+O,O,O,X, ,O, ,X,X,O Wins!
+ ,O,O,O,X,O,X,X,X,X Wins!
+O, ,X,O, , ,O,X, ,O Wins!
+X, ,O, ,X,O,O, ,X,X Wins!
+O,X,O,X,O,O,X,O,X,Draw
+X,X,O,X,O,O,O,X,O,O Wins!
+X,O,O, ,X,X,O,O,X,X Wins!
+O, ,O,X,X,X,O, , ,X Wins!
+ , ,O,X,X,X,O, ,O,X Wins!
+O,X,X,O,O,X, , ,O,O Wins!
+X,X,X,O,O, ,O,O,X,X Wins!
+O,X,O,X,X,X, ,O,O,X Wins!
+X,O,O, ,X, ,O, ,X,X Wins!
+X,O,X, ,O,X,O,O, ,O Wins!
+ ,X, ,O,O,O,X,O,X,O Wins!
+O,O,X, ,X,X,X,O,O,X Wins!
+X,O, ,O,O,X,X,O, ,O Wins!
+X,O,X,O,O,O,X,O,X,O Wins!
+O,X,O,O,X,O,X,O,X,Draw
+O,X,X,O,O,X,X,O,O,O Wins!
+ ,X,O,O,X, ,O,X, ,X Wins!
+O,X, , ,O, ,X, ,O,O Wins!
+O,X,X,O, ,X,O,O, ,O Wins!
+O,X,O,O,O, ,X,X,X,X Wins!
+X,O,O,O,X,X,X,O,O,Draw
+O, ,X,O, ,X,O, , ,O Wins!
+O,O,X,X,X,O,O,X,O,Draw
+X,O,O,O, ,O,X,X,X,X Wins!
+O,O,O, ,X,X, ,X,O,O Wins!
+O,O,X, ,O,X,X,O, ,O Wins!
+O,X,X,O,X,O,X, ,O,X Wins!
+X, ,O,O,X,O, , ,X,X Wins!
+ , ,X,O,O,O,X,X,O,O Wins!
+ ,X,O,X,O,O,O,X, ,O Wins!
+O,O,X,O,O,X, ,X,X,X Wins!
+X,O, ,X,O, , ,O, ,O Wins!
+ ,X,X,O,O,X,O,O,X,X Wins!
+X,O,O,X,O,O,X, ,X,X Wins!
+ , ,X,X, , ,O,O,O,O Wins!
+X,O,O, ,X,O,X,O,X,X Wins!
+O,X,O,O,O,X,X,O,X,Draw
+O,O,O,X, , , , ,X,O Wins!
+ ,O, ,O,O, ,X,X,X,X Wins!
+O,X, ,O,X,O,X,X,O,X Wins!
+ ,O,X,X,O,O,X,O, ,O Wins!
+X, ,O,X,O,O,O, ,X,O Wins!
+O,O,X,X,X,O,X, ,O,X Wins!
+X,O,O,X,O, ,X,X,O,X Wins!
+O,X,O,X,O,O,O,X,X,O Wins!
+O,O,X,O,X,X,X, ,O,X Wins!
+X,X, ,O,O,O, , , ,O Wins!
+X,O,O,X, ,O,X,O,X,X Wins!
+X,X,O,X,O,O,O,O,X,O Wins!
+X,O, , ,O, , ,O,X,O Wins!
+X,X,O,X,O,O,X,O, ,X Wins!
+O,O,O,X,X,O,X,X,O,O Wins!
+O,X, , ,O, , ,X,O,O Wins!
+O, ,X,O,X,O,X,X,O,X Wins!
+ ,O, ,X,O, , ,O,X,O Wins!
+O,X, ,X,O, ,O,X,O,O Wins!
+X,X,O,O,O,X,X,O,O,Draw
+ ,O,X,O,X, ,X,O, ,X Wins!
+ ,O, ,X,O,X, ,O, ,O Wins!
+ ,X, ,O,O,O,X, , ,O Wins!
+ ,X,O,O,X,O, ,X, ,X Wins!
+X, ,O,O,X,O,X,O,X,X Wins!
+O, ,X,O, ,X, ,O,X,X Wins!
+O,O,O, ,X, , ,X, ,O Wins!
+O,X,X,X,O, ,O, ,O,O Wins!
+ ,O,X,O,O, ,X,O,X,O Wins!
+ ,X,O,X,X, ,O,O,O,O Wins!
+X,O,O,X,X,X, ,O,O,X Wins!
+X,O,O, ,O,O,X,X,X,X Wins!
+X,O, ,O,X,O,O,X,X,X Wins!
+X,O, , ,O,X, ,O, ,O Wins!
+X,O,O,O,O,X,X,O,X,O Wins!
+O, ,O,O,O,X,X,X,X,X Wins!
+X, ,O,O,X,O,O,X,X,X Wins!
+O,X, ,X, ,X,O,O,O,O Wins!
+X,X,X,O,O, ,X,O,O,X Wins!
+O, , ,O,X,X,O,X,O,O Wins!
+O,O,X,X,X,O,O,O,X,Draw
+X, ,O, ,O,O,O,X,X,O Wins!
+ ,O,O,X,O,X,O,X, ,O Wins!
+X, ,X,O,O,O, , , ,O Wins!
+X,X,X, ,O,O,O,X,O,X Wins!
+O,O,O, , ,X,X, , ,O Wins!
+O,O,X, ,X,X,O,O,X,X Wins!
+ ,X,X,O,O,O,O,X, ,O Wins!
+X, ,X,O,X,O,O,O,X,X Wins!
+O,X, ,O,O,X,O,X, ,O Wins!
+O,O,X,X,O,O,X,X,O,O Wins!
+ ,O,O, ,O,X,X,O,X,O Wins!
+O,O,X,X,O,X, , ,O,O Wins!
+O, ,X,O, , ,O, ,X,O Wins!
+ ,X,O, ,X,O,O,X, ,X Wins!
+O, ,O,O, ,X,O,X,X,O Wins!
+X, ,O,O,O,X,O,X, ,O Wins!
+O,O,X, ,O,X,X, ,O,O Wins!
+O,X,O, ,X, , ,X,O,X Wins!
+O,O,X,X,O,X,O,X,O,O Wins!
+O, ,X,O,O, ,X,X,O,O Wins!
+O,O, ,X,O,X, ,O,X,O Wins!
+ ,X,O, ,O,X,O, , ,O Wins!
+X, , , , ,X,O,O,O,O Wins!
+X, ,O,X,O,O, ,X,O,O Wins!
+X,O, ,X,X, ,O,O,O,O Wins!
+O,O,X,O,X,X, ,O,X,X Wins!
+O, , ,O, ,X,O, ,X,O Wins!
+O,X,X,O,O,X,O,X,O,O Wins!
+X,X,O, ,X,O,O,O,X,X Wins!
+O,X, ,O,O,O, ,X,X,O Wins!
+ ,X,O, ,O, ,O, ,X,O Wins!
+O,X,X,O,O, ,O,X, ,O Wins!
+O,X,X,O,O,O,X,O,X,O Wins!
+ ,X, ,O,O,O, ,X, ,O Wins!
+ ,O, ,X,O, ,X,O, ,O Wins!
+X,O, , ,O, ,X,O, ,O Wins!
+ , ,O,X,O,O,X,X,O,O Wins!
+X,X,O,X, , ,O,O,O,O Wins!
+ ,O,O,O, , ,X,X,X,X Wins!
+ ,O,X,X,O, ,X,O,O,O Wins!
+X,O, ,X,X,O,O,O,X,X Wins!
+O, ,X,O,O, ,O,X,X,O Wins!
+X, , ,X, , ,O,O,O,O Wins!
+ , ,X,O,O,X,O, ,X,X Wins!
+O, ,O,X,X,X,O,O,X,X Wins!
+ , ,O,X,O,X,O, , ,O Wins!
+O, ,X,O,X, ,X,O, ,X Wins!
+X,O,O,O,X,O,X, ,X,X Wins!
+X,X,O,X,O, ,X,O,O,X Wins!
+O,X,X,O,O,O,X,X,O,O Wins!
+O,O,X,X,X,X, ,O,O,X Wins!
+X, , ,O,O,O, ,X, ,O Wins!
+O,O,X,O,X,O,X, ,X,X Wins!
+O,X,X, ,O,X,O,O,X,X Wins!
+ ,X,O,O, ,O,X,X,O,O Wins!
+O, ,X,O,X,X,O,O, ,O Wins!
+O,X,O,X,O, , ,X,O,O Wins!
+O,O,O,X, , ,X,O,X,O Wins!
+X,X,O,O,X,X,O,O,O,O Wins!
+X,X, ,O,O,O, ,X,O,O Wins!
+X,X, ,X, ,O,O,O,O,O Wins!
+X,X,O, ,X, ,O,O,O,O Wins!
+X,O,X,X,O,O,O,O,X,O Wins!
+O,X,O,O,X,X,O,O,X,O Wins!
+ ,O,O,X,X,X,O,O,X,X Wins!
+X,O,O,X,X,O,O,X,O,O Wins!
+O, ,X,O,X,O,X,O,X,X Wins!
+O,O,X,O,X, ,X,X,O,X Wins!
+X, , ,O,X,O, ,O,X,X Wins!
+X, ,O,X,O, ,X, ,O,X Wins!
+O,O,X,O, ,X,O,X, ,O Wins!
+X,O,O,X,X,O, , ,O,O Wins!
+O,O,O, ,X, , , ,X,O Wins!
+X, ,O,X,X,O, ,O,O,O Wins!
+ ,X, ,X,O,X,O,O,O,O Wins!
+O,X,O, ,X,X,O,X,O,X Wins!
+O,X,O,O, , ,O,X,X,O Wins!
+X,O,O,O,X, ,X,O,X,X Wins!
+O,O,O, ,X, ,X,O,X,O Wins!
+ ,X, ,O,X,X,O,O,O,O Wins!
+O,O,O,X, , ,X,X,O,O Wins!
+O,X,X,O,O, ,O, ,X,O Wins!
+X,X,O,X,O,X,O,O,O,O Wins!
+O,O,O,X, ,X, ,O,X,O Wins!
+O,X,X, ,O,O, ,X,O,O Wins!
+O,X,O,O,O,X,O,X,X,O Wins!
+X,X,X,O,X,O,O, ,O,X Wins!
+ ,O,X,O,X,X,X,O,O,X Wins!
+ , ,O, ,O,X,O, ,X,O Wins!
+ ,O,X, ,X,O,X,O, ,X Wins!
+X, ,O, ,O,X,O,O,X,O Wins!
+O, ,X,O,O,O, ,X,X,O Wins!
+O, ,X, ,O,X,O,X,O,O Wins!
+X,O, , ,O,O,X,O,X,O Wins!
+O,X,X,X,X,O,O,O,O,O Wins!
+O,X,O,X,X,O,O,O,X,Draw
+X,X,O, , ,O, , ,O,O Wins!
+O,O, , , ,O,X,X,X,X Wins!
+O,O,O,X, , ,O,X,X,O Wins!
+X,O,X,X,O,X,O,O,O,O Wins!
+O,X, ,O,X,O, ,X, ,X Wins!
+X,X,X, ,O, , ,O,O,X Wins!
+X, ,O,X, ,O, , ,O,O Wins!
+ ,O,X, ,O, , ,O,X,O Wins!
+O,O,O,X,O,X,X,X,O,O Wins!
+O,O,X,X,O,O,X,O,X,O Wins!
+ ,O,X,O, ,X,O, ,X,X Wins!
+ ,X,O,X, ,O,X,O,O,O Wins!
+X,X,X,O, , ,O, ,O,X Wins!
+X,O,O,X,X, ,O,O,X,X Wins!
+ ,X, ,O,O,O,X,X,O,O Wins!
+ ,X,O,O,O, ,O,X,X,O Wins!
+O,O, ,X,X,X, , ,O,X Wins!
+O,X,O,X,X,O,X,O,O,O Wins!
+X,O,X,X,O,O,O,X,O,Draw
+O, ,X,X,O,O, ,X,O,O Wins!
+X,X,O,X,O,O,O, , ,O Wins!
+ ,X,O,X,O, ,O,X,O,O Wins!
+O,X,O, ,X,O,X, ,O,O Wins!
+O,O,O,X,O,X,X,O,X,O Wins!
+X,O,O, ,O,X,X,O, ,O Wins!
+X,X, ,O,O,O,O, ,X,O Wins!
+ ,O,X, ,X,X,O,O,O,O Wins!
+ ,O,X,O,O,X, , ,X,X Wins!
+X, ,O,X,O,O,X, , ,X Wins!
+X,X,X,X,O,O,O,O, ,X Wins!
+O,X,O,X,X,X,O, ,O,X Wins!
+X,X,O,O,O,X,O, , ,O Wins!
+ , ,O,X,O, ,O,X, ,O Wins!
+X, ,O, ,X,O,O,X,O,O Wins!
+O,X,O,O,X,X,X,O,O,Draw
+X,O,X,O,X,O,O,X,O,Draw
+O,O,X,O,X, ,O,X, ,O Wins!
+X, ,O,X,O, ,O,O,X,O Wins!
+O, , ,O,X,O,O,X,X,O Wins!
+X, ,O,X,X,O,O,O,X,X Wins!
+ ,X,O,O,X,X,O,X,O,X Wins!
+O,X, ,O,O,O,X,X, ,O Wins!
+X,X,X,O,X,O, ,O,O,X Wins!
+O, ,O,X,X,O, ,X,O,O Wins!
+X,X,X, , ,O,O, ,O,X Wins!
+O,O,X,O,X,X,O,X,O,O Wins!
+ ,O,X,X,O,O, ,O,X,O Wins!
+ ,O,X,O,X,O,X,X,O,X Wins!
+O,X,X,O,X,O,O, , ,O Wins!
+X,O,X,O,X,O,X,O, ,X Wins!
+O,X, ,X,O, ,X,O,O,O Wins!
+X, ,X,O,O,O,O,X, ,O Wins!
+O,O,X,X,X, ,X,O,O,X Wins!
+O,O, , ,O,X,X,X,O,O Wins!
+O,O,O, ,X,X, ,O,X,O Wins!
+ ,X,X,O,O,O, ,X,O,O Wins!
+O,X,O, ,O,O,X,X,X,X Wins!
+ ,X,X,X, ,O,O,O,O,O Wins!
+ , ,O,X,X,O, , ,O,O Wins!
+O,X, ,O,X,O,O, ,X,O Wins!
+O,X,X,O,X, ,X,O,O,X Wins!
+ ,X,X, ,X,O,O,O,O,O Wins!
+O, ,X,O,O,X, ,X,O,O Wins!
+O,X,O,X,X,O,O,X, ,X Wins!
+O,O,X,O, ,O,X,X,X,X Wins!
+X, ,O,O,X, ,O, ,X,X Wins!
+X,X,X,O,O,X, ,O,O,X Wins!
+X,X,O,O,O,O, , ,X,O Wins!
+ ,X,X,O,O,O, ,O,X,O Wins!
+O,O,O,X, ,O,X,X, ,O Wins!
+ ,X,O,X, ,O, , ,O,O Wins!
+O,O,O, ,X,X,O, ,X,O Wins!
+O,X,X,X,O, , ,O,O,O Wins!
+O,O,O,O, ,X,X, ,X,O Wins!
+X, ,O,O,O,O,X,X, ,O Wins!
+O,X,O, ,X, ,O,X, ,X Wins!
+O,O,X,O,X,O,O,X,X,O Wins!
+ ,O, , ,O, ,X,O,X,O Wins!
+X, ,O,X,O,X,X,O,O,X Wins!
+X,O,O,O,X,X, ,O,X,X Wins!
+O,O,O,O,X,X,X,X,O,O Wins!
+O,O,X,O,X, ,X,O,X,X Wins!
+X, ,X,X,O, ,O,O,O,O Wins!
+X, ,X,O,X, ,O,O,O,O Wins!
+O, ,X, ,O, , ,X,O,O Wins!
+X,O,O,O,X,O, ,X,X,X Wins!
+X,X,O,O,O,O,O,X,X,O Wins!
+ ,O,O,X,O,X,X,O, ,O Wins!
+O, ,X,O, ,X,O,X,O,O Wins!
+X, ,X,X,O,O,X,O,O,X Wins!
+O,O,X,X,O,X,X,O,O,O Wins!
+O,X,X,O, , ,O, , ,O Wins!
+O,X,O,X,O,X, , ,O,O Wins!
+X,X, ,X,O,O,X,O,O,X Wins!
+X,X,O,O,X,O, ,O,X,X Wins!
+X, , ,X,X,O,O,O,O,O Wins!
+O,X, , ,O,X,X,O,O,O Wins!
+X,O,O,X,O,O,X,X, ,X Wins!
+O,X,O,O,X,O, ,X,X,X Wins!
+X,O,O,X,O, ,X, , ,X Wins!
+ ,O, ,X,X,X,O, ,O,X Wins!
+X,X,X, ,O, ,O,O, ,X Wins!
+X,X, ,O,O,O, ,O,X,O Wins!
+O, ,X,O,O,X,X,O,X,X Wins!
+O,X, ,O,X, ,O, , ,O Wins!
+ ,O,O, , ,O,X,X,X,X Wins!
+O,X,X, ,O,X,O, ,O,O Wins!
+O,X,X,O,O,X,O, , ,O Wins!
+X, , ,O,O,O,X,O,X,O Wins!
+X,X,X,O,X,O,O,O, ,X Wins!
+O,O,O,X,O, ,X, ,X,O Wins!
+O,X, ,X,O,X, ,O,O,O Wins!
+X, ,O,O,O,O, ,X,X,O Wins!
+O,X,O,X, ,O,X, ,O,O Wins!
+X,X,O,O,O,X,O,O,X,O Wins!
+O,O,X,O,O,X,X,X,O,O Wins!
+X, ,X,O,O,O,X, ,O,O Wins!
+ ,X,O,O,X, , ,X,O,X Wins!
+O,X,O,X,X,O, , ,O,O Wins!
+O,O, ,O,X,O,X,X,X,X Wins!
+O,X, , ,O,X, , ,O,O Wins!
+O,O,O, ,X,X, , , ,O Wins!
+ , ,X,O,O,O,X, , ,O Wins!
+X,X,O, , ,O,O,X,O,O Wins!
+O, ,X,O,O,X, , ,X,X Wins!
+X,O,X,O,X, ,O,O,X,X Wins!
+X,O,X, ,X,O,X,O,O,X Wins!
+X,O,X,O, ,X,O,O,X,X Wins!
+X, ,O, ,O,O,X,X,O,O Wins!
+X, ,O,X,X,O,O, ,O,O Wins!
+ ,X,O,X,O,O,X, ,O,O Wins!
+O, ,X,O,X, ,O, , ,O Wins!
+X,O,X,X, ,O,X,O,O,X Wins!
+X, ,O, ,X,O, , ,O,O Wins!
+O,X, ,O, , ,O,X, ,O Wins!
+X,O,X, ,O, , ,O, ,O Wins!
+X,O,X,O,O,X,X,O,O,O Wins!
+X,O,O, ,X,O, , ,X,X Wins!
+O, ,X, ,X,O,X,O, ,X Wins!
+X,X,O,X, ,O,O, ,O,O Wins!
+O,O,O,X,X, , ,O,X,O Wins!
+ , ,O,X,X,O,X,O,O,O Wins!
+O,X,O,X,O,X,O,X,O,O Wins!
+ , ,X,O,O,O, , ,X,O Wins!
+O,X,O, ,X,O,O,X,X,X Wins!
+O,O,O,X,O, ,X,X, ,O Wins!
+O,X,O, ,O, ,O,X,X,O Wins!
+X,X,O, ,O,O, ,X,O,O Wins!
+O,O,O, ,O,X,X, ,X,O Wins!
+O,O,X,X,X,X,O,O, ,X Wins!
+O,O, ,O, ,X,O,X,X,O Wins!
+X,X,X, ,O,O,X,O,O,X Wins!
+O, , , ,O,O,X,X,X,X Wins!
+ ,X,X,O,X, ,O,O,O,O Wins!
+O,X,X,X,O,X,O,O,O,O Wins!
+X, ,O, ,O, ,O,X, ,O Wins!
+O,X,X, ,X, ,O,O,O,O Wins!
+O,O, ,X,O,O,X,X,X,X Wins!
+O, ,X,O,O,X,O,X, ,O Wins!
+X, ,X,X, ,O,O,O,O,O Wins!
+O, ,X, , ,X,O,O,X,X Wins!
+O,O,X, ,X,O,X,O,X,X Wins!
+O,O, ,O, , ,X,X,X,X Wins!
+ , , ,X, ,X,O,O,O,O Wins!
+O, , ,O,O,X,X,X,O,O Wins!
+ , ,O,O,X,O,X,X,O,O Wins!
+O,X, ,O, ,O,O,X,X,O Wins!
+X,O,O,X,O,X, ,O, ,O Wins!
+X,X,X,O, ,O,O,X,O,X Wins!
+ , ,X,O,O,O,X,O,X,O Wins!
+O,X,X,X,O,O, , ,O,O Wins!
+O,O, ,X,X,X,O,O,X,X Wins!
+X,O,X,O,X,O,O, ,X,X Wins!
+O,O, ,O,X, ,O,X,X,O Wins!
+O,O,O,X,X, ,X,O, ,O Wins!
+ , ,X,O,O,X, ,O,X,X Wins!
+X,O,O,X,O,X,X, ,O,X Wins!
+O, ,X, ,X,O,X, ,O,X Wins!
+ ,X,X, , , ,O,O,O,O Wins!
+O, ,X,X,O,X, ,O,O,O Wins!
+X,X,X,O,O,X,O, ,O,X Wins!
+X,X,O,O, ,O, ,X,O,O Wins!
+O,X, ,X,O,O,X, ,O,O Wins!
+X,X,X,O, , , ,O,O,X Wins!
+O,O,O,O,X, , ,X,X,O Wins!
+O,O,X,O,O,X,X, ,X,X Wins!
+X,X,X,O, ,O,O, , ,X Wins!
+O,X,O,O, ,O,X,X,X,X Wins!
+X,X,O, ,O, ,O, , ,O Wins!
+X,O,O,X, ,O, ,X,O,O Wins!
+O,O,O,X,X, ,O, ,X,O Wins!
+O,X,O,X,O, ,O,X, ,O Wins!
+ ,O,O,X,O, ,O,X,X,O Wins!
+X,X,X, ,O,O, , ,O,X Wins!
+X, ,O,X,O,X,O, ,O,O Wins!
+X,O,O, ,O,X,O, ,X,O Wins!
+O, ,X,O,X, ,O,O,X,O Wins!
+X,O,O,X,X,X,O,O, ,X Wins!
+ , ,O,X,X,X, ,O,O,X Wins!
+O,X,O, ,O,X,O, ,X,O Wins!
+ ,X,X,O,O,O,O, ,X,O Wins!
+X, , ,X,O,O,X,O, ,X Wins!
+X, ,X,O,O,O, ,X,O,O Wins!
+O,X,O,O,X, ,X,X,O,X Wins!
+O,O,X,O, ,X, , ,X,X Wins!
+X,X,X, ,O, ,O, ,O,X Wins!
+O,O,X,X,X,O,X,O, ,X Wins!
+O,O,O, , ,X, ,X, ,O Wins!
+O,X,X,X, , ,O,O,O,O Wins!
+X,O, , ,X,O,O, ,X,X Wins!
+X,O,O, ,O,X, ,O,X,O Wins!
+O, , , ,O,X, ,X,O,O Wins!
+O, ,X,O,O,O,X,X, ,O Wins!
+ , ,X,O, ,X,O,O,X,X Wins!
+O,X,O, ,O, ,X,X,O,O Wins!
+ ,X, ,O,X, ,O,X,O,X Wins!
+O, ,X, ,X,X,O,O,O,O Wins!
+O,O,O, ,O,X, ,X,X,O Wins!
+ ,X,O, ,X, ,O,X,O,X Wins!
+X,O,O,O,O, ,X,X,X,X Wins!
+O,X,O,X,X, ,O,X,O,X Wins!
+ ,X,O, ,O, ,O,X, ,O Wins!
+ ,X,O, ,O,O,O,X,X,O Wins!
+O, ,X, ,O, ,X, ,O,O Wins!
+ ,X,X,O,X,O,X,O,O,X Wins!
+X,O,X,O,X,O,X, ,O,X Wins!
+O, ,O, ,O,X,X,X,O,O Wins!
+X,O,X,O,O,X, ,O, ,O Wins!
+X, ,O,O,X,X,O,O,X,X Wins!
+O, ,X,X,X,O,X,O,O,X Wins!
+O,O,O,X,O,X, ,X, ,O Wins!
+ ,X,O, , ,O,X, ,O,O Wins!
+O, ,O,X,X,X, ,O, ,X Wins!
+O, ,O,O,X,X,O, ,X,O Wins!
+O,O,O,X, ,X,O, ,X,O Wins!
+X,X,O,O,X, ,O,O,X,X Wins!
+ ,O,O,X,X,X,O, , ,X Wins!
+X, , ,O,O,O, , ,X,O Wins!
+O,O,O, ,X,O,X,X, ,O Wins!
+X, ,O,O,X, , ,O,X,X Wins!
+X,O,X,O,X, ,X,O,O,X Wins!
+X,O, ,X,X,O,X,O,O,X Wins!
+X, ,X, , , ,O,O,O,O Wins!
+ ,X,O, , ,O, ,X,O,O Wins!
+ ,X,O, ,X,X,O,O,O,O Wins!
+O,X, ,O,O, ,O,X,X,O Wins!
+X,X,X,O, ,O, , ,O,X Wins!
+O,O,O, ,X, ,X,X,O,O Wins!
+X, ,O,O,O,O,X, ,X,O Wins!
+O, ,O,X,O, ,O,X,X,O Wins!
+O, ,X,O,X,X,X,O,O,X Wins!
+O,X,O,O,X,O,X,X, ,X Wins!
+ , ,O, ,X,O,X, ,O,O Wins!
+X,X, , ,X,O,O,O,O,O Wins!
+X, ,O,X,O,X,O,O, ,O Wins!
+O,O,X,O,X,O,X,X, ,X Wins!
+ ,X, ,X,X,O,O,O,O,O Wins!
+O,O,X,O, , ,O,X,X,O Wins!
+ ,O,O,X,X,X,X,O,O,X Wins!
+ ,X,O,O,X,O,X, ,O,O Wins!
+X,O, ,O,X,O,X,O,X,X Wins!
+O,X, , ,X,O, ,X,O,X Wins!
+ ,X,O,X,X,O,O, ,O,O Wins!
+X, ,O,X,O, ,O,X,O,O Wins!
+O, , ,X,O, ,X, ,O,O Wins!
+ ,X, ,O,O,O,O,X,X,O Wins!
+ ,X,O, ,O,X,O,X,O,O Wins!
+X,O,O,X, ,O,X, , ,X Wins!
+X,X,O,O,X, ,O,X,O,X Wins!
+ , ,O,X, ,O,X, ,O,O Wins!
+X,O,X, ,X,O,O,O,X,X Wins!
+O,X, ,X,X,O,O,X,O,X Wins!
+X, , , ,X, ,O,O,O,O Wins!
+O, , ,X,O,O,X,X,O,O Wins!
+ ,O,X, , ,X,O,O,X,X Wins!
+O,X, , ,X,X,O,O,O,O Wins!
+O,X,X,O,O,O, ,X, ,O Wins!
+ ,X,X,O,O,O,X, ,O,O Wins!
+O,O,O,O,X, ,X, ,X,O Wins!
+O,X,X,O,X,O,X,O, ,X Wins!
+O, , ,X,O,X, , ,O,O Wins!
+O,X, ,O,O, ,X,X,O,O Wins!
+O,O,O, , , , ,X,X,O Wins!
+O, ,X,O,X,X,O, ,O,O Wins!
+X,O,X,X,O,O,X, ,O,X Wins!
+O, ,X, ,O,X, , ,O,O Wins!
+X,O,O,X, , ,X,O, ,X Wins!
+ , , ,O,O,O,X,X, ,O Wins!
+O,O,O,X,X, ,O,X, ,O Wins!
+O, , ,X,X,X,O,O, ,X Wins!
+X, ,O, , ,O, ,X,O,O Wins!
+X,O, ,O,O,O,X, ,X,O Wins!
+X,O, , ,X,O, ,O,X,X Wins!
+X,X,X,X,O,O,O, ,O,X Wins!
+O,X,O,O,X,X,O, , ,O Wins!
+X,X,X, ,O,O, ,O, ,X Wins!
+ , ,O,X,O,X,O,O,X,O Wins!
+ ,O,O,O,O,X,X,X,X,X Wins!
+X, ,O,X,O,O,O,X, ,O Wins!
+X, ,O,O,X,O, ,X,O,O Wins!
+X,X,O, ,X,O, ,O,O,O Wins!
+ ,X, ,X, , ,O,O,O,O Wins!
+O,X, ,X,X, ,O,O,O,O Wins!
+X,X,O,O,O, ,O, ,X,O Wins!
+X,O, , ,X, ,O,O,X,X Wins!
+O,X,O, , ,O,X,X,O,O Wins!
+X,O,X,O,X,O, ,O,X,X Wins!
+X,X,O,X,O, ,O, ,O,O Wins!
+X, ,O, ,O,X,O,X,O,O Wins!
+X,O,O,X,O, ,O,X, ,O Wins!
+O, , ,X,X,X,O, ,O,X Wins!
+X,O, ,X, ,O,X, ,O,X Wins!
+ ,X,O,X,O, ,O,O,X,O Wins!
+O,O,O, ,X,X,X,O, ,O Wins!
+O, ,X, ,O,X, ,O,X,X Wins!
+ , ,O,X, ,O, ,X,O,O Wins!
+O, ,X,X,O,X,O, ,O,O Wins!
+ ,X, , , ,X,O,O,O,O Wins!
+X,O,X,O,O,O, , ,X,O Wins!
+O,X, ,O,X, , ,X,O,X Wins!
+X,O, ,X, ,X,O,O,O,O Wins!
+X,X,O,O,X,O,O, ,X,X Wins!
+ ,X,O,O,O,X,O, ,X,O Wins!
+ ,O, ,O,O,X,X,O,X,O Wins!
+X,X, ,O,X, ,O,O,O,O Wins!
+ , ,X,O,X,X,O,O,O,O Wins!
+X,O, ,O,X,X,O,O,X,X Wins!
+O, , ,O,O, ,X,X,X,X Wins!
+X,X,O,X,X,O,O,O,O,O Wins!
+X,X,O,X, ,O, ,O,O,O Wins!
+X,O, ,O,O,O, ,X,X,O Wins!
+X,O,O, ,X,O, ,X,O,O Wins!
+O,X,O,X,O,X,O, , ,O Wins!
+O,X,X,O,O, ,X, ,O,O Wins!
+X,O, ,X, ,O,X,O, ,X Wins!
+ ,O,X, ,O, ,X,O, ,O Wins!
+O,X, ,O,X, ,O,O,X,O Wins!
+ , ,O, , ,O,X,X,O,O Wins!
+ ,X, , ,X, ,O,O,O,O Wins!
+O,O,O, , , ,X, ,X,O Wins!
+O,X, ,O, , ,O, ,X,O Wins!
+O,O,O,X, ,X,O,X, ,O Wins!
+O,O, ,X,X,X,O, , ,X Wins!
+O,X,O, ,O,X, ,X,O,O Wins!
+O,O,O,O,X,X, , ,X,O Wins!
+X,O,O,X,O, , ,O,X,O Wins!
+ , , , ,X,X,O,O,O,O Wins!
+ ,O,X, ,O,X, ,O, ,O Wins!
+O,X, ,O,O,X,X, ,O,O Wins!
+O, , ,X,O, , ,X,O,O Wins!
+X,X,O, ,O,X,O,O, ,O Wins!
+ ,O,O,X,O,O,X,X,X,X Wins!
+O, ,O, , ,O,X,X,X,X Wins!
+X,X,O,X,O,O, , ,O,O Wins!
+O,O,X,X,O,X, ,O, ,O Wins!
+O,O,X, ,O,O,X,X,X,X Wins!
+O,O,X,O, ,X,X,O,X,X Wins!
+O, , ,O,X, ,O, ,X,O Wins!
+O,X, ,X,O,O, ,X,O,O Wins!
+X, ,O,X, , ,X,O,O,X Wins!
+O,X,X, ,O, ,X,O,O,O Wins!
+X,X,O, , ,O,X,O,O,O Wins!
+X,O, ,O,O,X, ,O,X,O Wins!
+X,O,X,X,O, ,O,O, ,O Wins!
+ ,O,O,X,X,X,O,X,O,X Wins!
+X, ,X, ,O,X,O,O,O,O Wins!
+O, ,X,X,O,X,O,O,X,X Wins!
+X,X,O, ,X,O,O, ,O,O Wins!
+X, ,O,X,O,O,X,O,X,X Wins!
+X,O,X, ,X, ,O,O,O,O Wins!
+X,O,O,X,O,O,O,X,X,O Wins!
+ ,O,X,O,X,O,X,O,X,X Wins!
+O,X,X,O,X,O, ,X,O,X Wins!
+ ,X, ,O,O,O, , ,X,O Wins!
+O, ,O,X,O,X,O, ,X,O Wins!
+O, ,O, ,X,O,X,X,O,O Wins!
+O,X, , ,X, ,O,X,O,X Wins!
+ ,X,O,X,O,O, ,X,O,O Wins!
+X,O, ,O,X, , ,O,X,X Wins!
+X,X, ,O,O,O,X, ,O,O Wins!
+X,O, , ,O,X,X,O,O,O Wins!
+X,O,X, ,O,X, ,O,O,O Wins!
+O, ,O,X,X,X,X,O,O,X Wins!
+ , ,O,X,O, ,O, ,X,O Wins!
+X,X,O, ,O,O,X, ,O,O Wins!
+O,X,O,O,X, ,O, ,X,O Wins!
+ ,O,X,X,O, , ,O, ,O Wins!
+X,X,X, ,O,O,O,O,X,X Wins!
+O,X,X, ,O,O,X, ,O,O Wins!
+ , , ,O,O,O, ,X,X,O Wins!
+X,O, , ,O,X,O,O,X,O Wins!
+X,O,O,X,X,X,O, ,O,X Wins!
+O,O,X,O,X,X,O, , ,O Wins!
+ ,O, ,X,O,X,X,O,O,O Wins!
+O,X,X, ,X,O,O,X,O,X Wins!
+O,O,X,X,O, ,X,O, ,O Wins!
+O,O, ,O,X,X,O, ,X,O Wins!
+X,X, ,O,X,O,O,X,O,X Wins!
+ , ,O,O,O,X,O,X,X,O Wins!
+O, ,O, ,O,X,O,X,X,O Wins!
+ ,X,O, ,X,O,X,O,O,O Wins!
+O,O,O,O,X, ,X,X, ,O Wins!
+O,X,O,O,X, , ,X, ,X Wins!
+O,X, ,X,O,X,O, ,O,O Wins!
+X, , ,O,X,X,O,O,O,O Wins!
+O,X, ,O,O,O,X, ,X,O Wins!
+O,X,X,O, , ,O,X,O,O Wins!
+O, , ,O,O,X,O,X,X,O Wins!
+ ,O, , ,O,X, ,O,X,O Wins!
+O,X,O,O,X,X, ,X,O,X Wins!
+X,O,X, ,O,O, ,O,X,O Wins!
+ ,X,O,O,O,O,X, ,X,O Wins!
+X,O,O,X,X,O,O, ,X,X Wins!
+O,O,X,X, ,X,O,O,X,X Wins!
+X,X,O, ,O,O,O,X, ,O Wins!
+O,O,O, ,X,O, ,X,X,O Wins!
+O,X, ,O, ,X,O,O,X,O Wins!
+X,O,O, ,O,X,O,X, ,O Wins!
+ , ,O, ,O,O,X,X,X,X Wins!
+O,X, ,O,X,X,O, ,O,O Wins!
+X,O,O,X,X,O, ,O,X,X Wins!
+X,X,X,O, ,O,X,O,O,X Wins!
+ ,X,O,O,X,O,O,X,X,X Wins!
+X,X,O, ,O, ,O,O,X,O Wins!
+X, ,O,X, ,O,O,X,O,O Wins!
+ , ,O,X,O,X,O,X,O,O Wins!
+ ,O, , ,O,O,X,X,X,X Wins!
+O,O,O, , ,X,X,X,O,O Wins!
+O, ,X, ,O,X,X,O,O,O Wins!
+X,X,X,O, ,O,O,O,X,X Wins!
+ ,X,O,O,O,O,X,X, ,O Wins!
+X,O, , ,X,X,O,O,O,O Wins!
+ ,X,O,X,O,X,O, ,O,O Wins!
+O,O,O,O, ,X, ,X,X,O Wins!
+X, , ,O,X,O,O, ,X,X Wins!
+O,O,O,X, ,X,X,O, ,O Wins!
+ , ,X,O,O,O,O,X,X,O Wins!
+ , , ,O,O,O,X, ,X,O Wins!
+X,X,X,O,O, , , ,O,X Wins!
+O,X,O,X,X,X,O,O, ,X Wins!
+X, , ,O,O,O,X,X,O,O Wins!
+O, ,X,X,O,O,X, ,O,O Wins!
+X,O, ,X,O,O,X,X,O,X Wins!
+X,O, ,X,O,X, ,O,O,O Wins!
+ , ,X,O,X,O,X,O, ,X Wins!
+ , ,X, , ,X,O,O,O,O Wins!
+X, , ,O,O,O,X, , ,O Wins!
+O,X, , ,X,O,O,X, ,X Wins!
+O,X,X, ,X,O,X,O,O,X Wins!
+X,O,X,O,O,O, ,X, ,O Wins!
+O,O,O, ,X, ,O,X,X,O Wins!
+ ,X, ,O,X,O, ,X,O,X Wins!
+ ,O,X,X,O,X, ,O,O,O Wins!
+X,X, , , , ,O,O,O,O Wins!
+ ,O,X, ,O,X,O, ,X,X Wins!
+O, ,X,O,X,O,O,X, ,O Wins!
+ ,X,O,X, ,O,O,X,O,O Wins!
+X,X,O, ,O,O,O, ,X,O Wins!
+X,O,O,X,O,X,O, , ,O Wins!
+X,X,O, ,O,X,O, ,O,O Wins!
+X, ,X,O,O,O,O, ,X,O Wins!
+X,X,O,O,X,O,O,X, ,X Wins!
+ , ,X,X,O,X,O,O,O,O Wins!
+X,O, ,X, , ,X,O,O,X Wins!
+X, ,O, ,X, ,O,O,X,X Wins!
+X, ,X,O,X,O,X,O,O,X Wins!
+ ,O,X,X,X, ,O,O,O,O Wins!
+O,X,O, ,O,X,X, ,O,O Wins!
+O,O, ,X,O, ,X,X,O,O Wins!
+O, , ,O, ,O,X,X,X,X Wins!
+O,O,X,X,O, , ,X,O,O Wins!
+ ,O,O,X, ,O,X,X,O,O Wins!
+O,O,O,X, ,X, , , ,O Wins!
+O, , ,X,X,X, ,O,O,X Wins!
+X, ,O,O,O, ,O,X,X,O Wins!
+X,O, ,X,O, ,X, ,O,X Wins!
+ , ,X, ,X,O,X,O,O,X Wins!
+X, ,O, ,O, ,O, ,X,O Wins!
+O,X, ,O, ,X,O, , ,O Wins!
+O,O,O,X, ,X,X, ,O,O Wins!
+O,O,X, ,X, ,X,O, ,X Wins!
+ ,O,X,X,X,O,X,O,O,X Wins!
+X, ,O, ,O,X,O, , ,O Wins!
+X,X, ,O,X,O,O,O,X,X Wins!
+X, ,X,O,O,X,O,O,X,X Wins!
+O,X,X,O,O,O,O,X,X,O Wins!
+X, , ,O,X, ,O,O,X,X Wins!
+O,O,O, ,X, ,X, , ,O Wins!
+O,O,O,X,X, , ,X,O,O Wins!
+ , ,O,X,X,X,O,O, ,X Wins!
+O,X,X, , ,X,O,O,O,O Wins!
+O,O,O,O,X,X,X, , ,O Wins!
+X,X,X, , ,O, ,O,O,X Wins!
+O,O,O, , , ,X,X, ,O Wins!
+X,X, ,X,O, ,O,O,O,O Wins!
+ ,O,X,O,O,X,O,X,X,X Wins!
+X,X,O,O,O,O, ,X, ,O Wins!
+O, , ,O, , ,O,X,X,O Wins!
+O,X,X, ,O,X, ,O,O,O Wins!
+X,X,O,O,O, ,O,X, ,O Wins!
+ ,X,X, ,O,X,O,O,O,O Wins!
+O,O,X, ,X,O,X,X,O,X Wins!
+X,O,X,O,O,X,O, ,X,X Wins!
+X,O, ,X,O,O, ,O,X,O Wins!
+O,X, ,O,O,X, ,X,O,O Wins!
+O,X,X,O,O,O,X, , ,O Wins!
+O,O,X, ,O, ,X,O,X,O Wins!
+X,O,O,O,X,X,O, ,X,X Wins!
+O,O, ,X,O,X,X,O, ,O Wins!
+X, , ,X, ,O,X,O,O,X Wins!
+ ,O,O,X,O,X,O, ,X,O Wins!
+O, ,O,O,X, ,O,X,X,O Wins!
+X, ,O,X,O, ,X,O, ,X Wins!
+ ,O, ,X,X,X, ,O,O,X Wins!
+ ,X,O,O,O,O, ,X,X,O Wins!
+O,X, ,O,X,X,O,O, ,O Wins!
+O,O,X,O,X, ,O, ,X,O Wins!
+X,X,O,X,O, ,O,O, ,O Wins!
+ ,O,X,O, ,X, ,O,X,X Wins!
+O,O,X,O,X, ,X, , ,X Wins!
+X,O,O, ,X, , ,O,X,X Wins!
+O,O,O, ,X,X,O,X, ,O Wins!
+X, ,O,O,O,X,O, ,X,O Wins!
+ , ,X, ,X, ,O,O,O,O Wins!
+X, , , ,X,O,O,O,X,X Wins!
+X, ,X, ,X,O,O,O,O,O Wins!
+X,X, ,O,O,O,X,O, ,O Wins!
+X,X, ,O, ,X,O,O,O,O Wins!
+ ,O,O, ,X,O,X,X,O,O Wins!
+X,X, , ,O,X,O,O,O,O Wins!
+ ,O,O, ,O, ,X,X,X,X Wins!
+O, ,X,O,O,O,X, ,X,O Wins!
+X,O,X, , ,X,O,O,O,O Wins!
+ ,O, ,X,O,O,X,O,X,O Wins!
+X,X, ,O,O,O,O,X, ,O Wins!
+O, ,X,O,X, ,X, ,O,X Wins!
+O, ,X,X,X, ,O,O,O,O Wins!
+O,X,X,O,O,O, , ,X,O Wins!
+X,X,O, , ,X,O,O,O,O Wins!
+ ,X,O,X,O,X,O,O, ,O Wins!
+X,X,O,O, ,O,X, ,O,O Wins!
+ ,O,X, ,X,O,X, ,O,X Wins!
+O,O,O,X,X,O, , ,X,O Wins!
+ ,O,X,O,O,X,X,O, ,O Wins!
+X,O,O,X,O, ,O, ,X,O Wins!
+X,O,O, ,X,O,X, ,O,O Wins!
+X,O,X,O,O, ,X,O, ,O Wins!
+O, , ,O,X,X,O, , ,O Wins!
+O, ,X,O,O,X,X, ,O,O Wins!
+O,O,X,X,O,X,O, ,X,X Wins!
+O,O, ,O,O,X,X,X,X,X Wins!
+O,O, ,X,X,X,O,X,O,X Wins!
+ , , ,X,X, ,O,O,O,O Wins!
+O,X,X,O, ,O,O,X, ,O Wins!
+O,X,O, ,O,X,O,X, ,O Wins!
+O,X,X,O,O,X, ,O,X,X Wins!
+ ,X,O,X, ,X,O,O,O,O Wins!
+X,X,X,O,O, ,O,X,O,X Wins!
+ , ,X,O,O,O, ,X, ,O Wins!
+O,X,X, ,O, ,O,X,O,O Wins!
+O,O,O,X, , , ,X, ,O Wins!
+X,X,X,O,O,X,O,O, ,X Wins!
+ , ,X,X,X,O,O,O,O,O Wins!
+ ,O,O,X,O, ,X,O,X,O Wins!
+O,X, ,X,O, , , ,O,O Wins!
+X,O,X,X,O, , ,O,O,O Wins!
+O,O, ,X,O,X,X, ,O,O Wins!
+O, , ,O, ,X,O,X, ,O Wins!
+O,O,O, ,O,X,X,X, ,O Wins!
+ ,O,X,X, ,X,O,O,O,O Wins!
+X, ,O, , ,O,X, ,O,O Wins!
+X,O,O,X,X, ,X,O,O,X Wins!
+ ,O,X, ,X, ,X,O,O,X Wins!
+X, ,O,O, ,O,X,X,O,O Wins!
+O,O,O,X, ,X, ,X,O,O Wins!
+O, , ,X,O,X,O,X,O,O Wins!
+X,O,O, ,O, ,O,X,X,O Wins!
+X,X,X, ,O,O,O, , ,X Wins!
+O,X, , ,O,O,X,X,O,O Wins!
+ , ,O, ,O, ,O,X,X,O Wins!
+X,O,X,O,O,O,X, , ,O Wins!
+X, ,O, ,X,O,X,O,O,O Wins!
+ ,O, ,O, ,O,X,X,X,X Wins!
+ ,X,X,O,O,O, , , ,O Wins!
+X,O, ,X,O, ,O,O,X,O Wins!
+O, , ,O,X,X,O,O,X,O Wins!
+O,O,X,X,O, ,X, ,O,O Wins!
+O, , ,O,X, ,O,X, ,O Wins!
+X,X,X,O, , ,O,O, ,X Wins!
+O, ,X,X,O, ,O,X,O,O Wins!
+X,O,X, ,O,O,X,O, ,O Wins!
+X,X,X,O,O, , ,O, ,X Wins!
+ ,X,O, ,O,X,O,O,X,O Wins!
+X,O,O,O,X, , , ,X,X Wins!
+X, ,O,X,O, ,O, , ,O Wins!
+X,X,O,O,O,O,X, , ,O Wins!
+X, ,O,O,X,O,X, ,O,O Wins!
+ ,O, ,X,O,X,O,O,X,O Wins!
+O,O,X, , ,X,O, ,X,X Wins!
+O,X,O, ,X,O, ,X, ,X Wins!
+O, ,O,X,X,O,X, ,O,O Wins!
+O,X,O,X,O, ,X, ,O,O Wins!
+ ,O,X,O,X,X,O,O,X,X Wins!
+ ,O,X,O,O,O,X,X, ,O Wins!
+O, ,O,X,O,X,O,X, ,O Wins!
+ ,O, , ,O,X,X,O, ,O Wins!
+X, , ,X,O,X,O,O,O,O Wins!
+X,O, ,O,O,O,X,X, ,O Wins!
+X,O, ,O,X,O, , ,X,X Wins!
+O,O, ,X,O, ,X,O,X,O Wins!
+O,O, , ,O, ,X,X,X,X Wins!
+ ,X,O,X,O,O,O, ,X,O Wins!
+X,O,O,X,X,O,X,O, ,X Wins!
+ , ,O, ,O,X,O,X, ,O Wins!
+O,O,O,X,O,X, , ,X,O Wins!
+X, ,X,O,O,O,X,O, ,O Wins!
+ , ,O,O, ,O,X,X,X,X Wins!
+O,O,O,X,O, , ,X,X,O Wins!
+O,O, ,X,X,X, ,O, ,X Wins!
+X,O,X,X, , ,O,O,O,O Wins!
+ , ,X,O,X,O,X, ,O,X Wins!
+O, , , ,O, ,X,X,O,O Wins!
+ ,O,O, ,O,X,O,X,X,O Wins!
+X, ,O,X,X, ,O,O,O,O Wins!
+X,O,O,X,O,X,O,O,X,O Wins!
+ ,O, ,X,X,X,O,O, ,X Wins!
+ ,O,X,O,O,O, ,X,X,O Wins!
+O,O,O,O,X,X, ,X, ,O Wins!
+X, ,O, ,X,O, ,O,X,X Wins!
+ , ,O, ,X,O, ,X,O,O Wins!
+O,O,O, ,X,O,X, ,X,O Wins!
+O,O,O,X,X,O, ,X, ,O Wins!
+O,O,O, ,X,X,X, ,O,O Wins!
+O, ,O,X,X,X, , ,O,X Wins!
+ ,X, , ,X,O,O,X,O,X Wins!
+O, ,X, ,X, ,X,O,O,X Wins!
+ ,O,O,X,O,X, ,O,X,O Wins!
+ ,X,X,O,X,O,O,X,O,X Wins!
+O,X,X, ,O, , , ,O,O Wins!
+ ,O,X, ,O,O,X,O,X,O Wins!
+O,X, , ,O,X,O,X,O,O Wins!
+O,O,O,X, , ,X, , ,O Wins!
+O, ,O,O, , ,X,X,X,X Wins!
+ ,O,O,X,X,X, , ,O,X Wins!
+ ,X,X,O,O,O,X,O, ,O Wins!
+O,O,O, , ,X,O,X,X,O Wins!
+O, ,X,O,X,O,X, , ,X Wins!
+O, ,X,X,O, , , ,O,O Wins!
+ , ,O,X,O,O,O,X,X,O Wins!
+ ,O,X, ,O,X,X,O,O,O Wins!
+O, ,O,X,O, ,X,X,O,O Wins!
+O,O,O, , ,X, , ,X,O Wins!
+O,O,X, ,O,X, , ,X,X Wins!
+O, ,X,X,O, ,X,O,O,O Wins!
+O, ,X, ,O,X,O, ,X,X Wins!
+X,O,O, ,O, ,X,O,X,O Wins!
+ ,X,O,O,O,X,O,X, ,O Wins!
+X,O,X,X,O,O, ,O, ,O Wins!
+X,O,X, ,O, ,X,O,O,O Wins!
+O, ,O,X,O,X,X, ,O,O Wins!
+O,O,X,X,O, , ,O,X,O Wins!
+ , ,O,X,X,O,O,X,O,O Wins!
+ ,O,X,X,O, ,O,O,X,O Wins!
+O,O,X, ,O, ,X,X,O,O Wins!
+ ,O,X,O,X, ,X, ,O,X Wins!
+O,O,O,O, ,X,X,X, ,O Wins!
+O, ,O,X,X,X,O,X,O,X Wins!
+O,O, , ,O,X,X,O,X,O Wins!
+X, ,X,O,O,O, ,O,X,O Wins!
+O,X,X,O, , ,O,O,X,O Wins!
+ , ,X, ,O,X,O,O,X,X Wins!
+O,X,X,O, ,X,O, ,O,O Wins!
+ ,O,X,O,O,O,X, ,X,O Wins!
+O, ,X,O,X, ,O,X,O,O Wins!
+O,O, ,O,X,X,O,X, ,O Wins!
+X,X,X,X,O,O, ,O,O,X Wins!
+ ,X,X,X,O, ,O,O,O,O Wins!
+O,O,X, ,O,X, ,X,O,O Wins!
+O,X, ,O, ,X,O,X,O,O Wins!
+ ,X, ,O,X,O,O,X, ,X Wins!
+O,X,O,X, ,O, ,X,O,O Wins!
+ ,O,X,X,O,X,O,O, ,O Wins!
+O,O,X, , ,X, ,O,X,X Wins!
+ ,X,O, ,O,O,X,X,O,O Wins!
+X,X,X,O, ,O, ,O, ,X Wins!
+O,X, ,O,O,X,O, ,X,O Wins!
+ ,O,O,X,X,O,X, ,O,O Wins!
+O,O,O,X,X,O,X, , ,O Wins!
